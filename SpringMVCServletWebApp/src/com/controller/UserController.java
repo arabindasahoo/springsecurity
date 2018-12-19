@@ -12,7 +12,7 @@ import com.model.User;
 
 @Controller
 public class UserController {
-	//second commit
+	//third commit
 	@RequestMapping(value="/",method=RequestMethod.GET)
 	public String getUser()
 	{
