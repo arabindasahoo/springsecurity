@@ -7,6 +7,9 @@ public class User {
 	private int age;
 	private String country;
 	
+	user()
+	{
+	}
 	public User(String name, String email, int age, String country) {
 		super();
 		this.name = name;
